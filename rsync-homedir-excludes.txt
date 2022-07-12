@@ -15,75 +15,77 @@
 # (uncomment the files you don't need)        #
 ###############################################
 
-#.android
-#.AndroidStudio*/
-#Android/Sdk
-#.gradle
-#.gvm
-#.grails/
-#.grails_history
-#.kde/share/apps/nepomuk
-#.local/share/notbit
-#.local/libvirt
-#.local/share/libvirt
-#.vagrant
-#.vagrant.d
-#.wine
-#.twister
-#/twister
-#Applications/eclipse*
-#/Downloads
-#*Popcorntime*
-#/.aMule
-#/Scribus
-#/VirtualBox*
-#.local/share/gnome-boxes/images
-#/Nextcloud
-#_build
+.android
+.AndroidStudio*/
+Android/Sdk
+.gradle
+.gvm
+.grails/
+.grails_history
+.kde/share/apps/nepomuk
+.local/share/notbit
+.local/libvirt
+.local/share/libvirt
+.vagrant
+.vagrant.d
+.wine
+.twister
+/twister
+Applications/eclipse*
+/Downloads
+*Popcorntime*
+/.aMule
+/Scribus
+/VirtualBox*
+.local/share/gnome-boxes/images
+/Nextcloud
+_build
 #
 ## Ruby gems
-#.rvm
+.rvm
 #
 ## Add Game Folders here:
 #
-#/games
-#.local/share/Steam
-#.var/app/com.valvesoftware.Steam/.local/share/Steam
-#.steam
-#/Steam
-#.minecraft
-#.technic
-#.PlayOnLinux
-#.local/share/lutris/runners/wine/
+/games
+.local/share/Steam
+.var/app/com.valvesoftware.Steam/.local/share/Steam
+.steam
+/Steam
+.minecraft
+.technic
+.PlayOnLinux
+.local/share/lutris/runners/wine/
 #
 ## Spotify
-#.config/spotify/Users
-#.var/app/com.spotify.Client/config/spotify/Users
+.config/spotify/Users
+.var/app/com.spotify.Client/config/spotify/Users
 #
 ## those folders contain only temporary Videos I want to watch
-#/Videos
-#/Movies
+/Videos
+/Movies
 #
 ## some history files
-#.python_history
+.python_history
 #.bash_history
-#.zsh_history
+.zsh_history
 #.mysql_history
 #
 ## Python eggs
-#.local/lib/python*
+.local/lib/python*
 #
 ## Python virtual environments
-#PycharmProjects/**/venv
+PycharmProjects/**/venv
+.venv
+
 #
 ## Maven local repository
-#/.m2
+/.m2
 #
 ## Unlocked Plasma Vaults
-#/Vaults
+/Vaults
 ## Docker
-#.docker/machine
-#.local/share/containers
+.docker/machine
+.local/share/containers
 
 ################################################
 # These directories may definitely be excluded #
